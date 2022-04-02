@@ -16,6 +16,7 @@
 
 ⚽️ build and publish pipeline will added
 
+⚽️ Add UI for visualize and test
 ## ➡️ How to Contribute?
 
 🧩 Open a PR for your change
